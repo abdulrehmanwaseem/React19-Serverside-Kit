@@ -25,7 +25,6 @@ cd React19-Serverside-Kit
 
 ```
 2️⃣ Install Dependencies with pnpm
-
 ```
 
 ```sh
