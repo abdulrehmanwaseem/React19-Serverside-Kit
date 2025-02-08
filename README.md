@@ -1,6 +1,6 @@
 # ⚡ React19-Serverside-Kit
 
-A modern **React 19 Server-Side Rendering (SSR) starter kit** built with **Vite, TypeScript, Tailwind CSS, Express, and pnpm**. This boilerplate utilizes React 19’s ** SSR** capabilities to deliver a highly optimized, scalable, and fast server-rendered React application.
+A modern **React 19 Server-Side Rendering (SSR) starter kit** built with **Vite, TypeScript, Tailwind CSS, Express, and pnpm**. This boilerplate utilizes React 19’s **SSR** capabilities to deliver a highly optimized, scalable, and fast server-rendered React application.
 
 ---
 
@@ -55,7 +55,11 @@ pnpm run serve
 Tailwind is pre-configured. Use utility classes like:
 
 ```tsx
-<button className="bg-blue-500 text-white px-4 py-2 rounded">Click Me</button>
+<div className="bg-gray-800 h-screen flex justify-center items-center">
+  <button className="bg-blue-500 text-white px-4 py-2 font-medium rounded cursor-pointer hover:bg-blue-600">
+    Click Me
+  </button>
+</div>
 ```
 
 ---
