@@ -24,7 +24,7 @@ cd React19-Serverside-Kit
 ```
 
 ```
-### 2️⃣ Install Dependencies with pnpm
+2️⃣ Install Dependencies with pnpm
 
 ```
 
@@ -33,7 +33,7 @@ pnpm install
 ```
 
 ```
-### 3️⃣ Start Development Server
+3️⃣ Start Development Server
 ```
 
 ```sh
@@ -41,7 +41,7 @@ pnpm run dev
 ```
 
 ```
-### 4️⃣ Build and Run SSR Server
+4️⃣ Build and Run SSR Server
 ```
 
 ```sh
