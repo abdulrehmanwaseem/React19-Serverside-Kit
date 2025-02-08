@@ -55,11 +55,7 @@ pnpm run serve
 Tailwind is pre-configured. Use utility classes like:
 
 ```tsx
-<div className="bg-gray-800 h-screen flex justify-center items-center">
-  <button className="bg-blue-500 text-white px-4 py-2 font-medium rounded cursor-pointer hover:bg-blue-600">
-    Click Me
-  </button>
-</div>
+<div className="bg-gray-800 h-screen flex justify-center items-center"></div>
 ```
 
 ---
